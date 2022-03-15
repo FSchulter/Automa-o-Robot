@@ -1,8 +1,8 @@
 ***Settings***
 Library     SeleniumLibrary
 
-Resource    pages/home.robot
-Resource    pages/pesquisa.robot
+Resource    ../pages/home.robot
+Resource    ../pages/pesquisa.robot
 
 ***Test Cases***
 Cenário 1 - Realizar pesquisa com filtro zerado 
